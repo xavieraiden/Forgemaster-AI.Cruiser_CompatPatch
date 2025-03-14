@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FTL><!--Load dependancy script-->
+	<mod:findLike type="scripts">
+	<mod-append:script>data/Forgemaster_AI.Cruiser_CompatPatch_scripts/dependancy.lua</mod-append:script>
+	</mod:findLike>
+</FTL>

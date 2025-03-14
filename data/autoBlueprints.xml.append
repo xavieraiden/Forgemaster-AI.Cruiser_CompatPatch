@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod:FindName type="blueprintlist" name="LIST_CREW_NOSALT"><!--Append AI Avatars to the NOSALT blacklist-->
+	<mod-append:name>RVS_LIST_CREW_AI_AVATARS</mod-append:name>
+</mod:findName>

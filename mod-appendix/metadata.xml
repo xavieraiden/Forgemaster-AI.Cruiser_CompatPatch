@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<!--
+		CDATA tags mean no need to escape special characters.
+		Don't worry about spaces at the start/end. That gets trimmed.
+	-->
+
+
+	<!-- The title of this mod. -->
+	<title><![CDATA[ Forgemaster_AI.Cruiser_CompatPatch ]]></title>
+
+
+	<!--
+		This mod's thread on subsetgames.com.
+		If there's no thread yet, create one to announce your upcoming mod in the
+		forum. Then paste the url here.
+	-->
+	<threadUrl><![CDATA[  ]]></threadUrl>
+
+
+	<!-- Your forum user name. -->
+	<author><![CDATA[ ParoXysm ]]></author>
+
+
+	<!--
+		The revision/variant of this release, preferably at least a number.
+		Examples:
+			0.3
+			2.1c Ships Only WIP
+			2.4.1 Hi-res Bkgs
+			1.0 for FTL 1.03.1
+	-->
+	<version><![CDATA[ 1.0.0 ]]></version>
+
+
+	<description>
+<![CDATA[
+Obviously, patch after both AI.Cruisers and Forgemaster. Also obviously, this mod requires both of those mods to be installed.
+
+Currently just fixes the crew blacklist for the Saline Hull Body modular hull augment.
+
+If there is anything else I should add/change let me know. I probably don't know the full extent of the compat issues these mods have.
+
+This mod will not add any new content, it will only fix incompatibilities between the mods. And all credit and Kudos go to the teams behind: FTL Multiverse, Forgemaster, and Rogue AI Cruisers. Not to mention the team at Subset Games for making such a great game in the first place.
+]]>
+	</description>
+
+	<!--
+		Suggestions for the description...
+
+		Write a short paragraph about the mod's effect first (what style ship, how
+		does it affect gameplay). No need to introduce yourself.
+
+		Optionally add a paragraph of background flavor.
+
+		Optionally list important features.
+
+		List any concerns about mod compatibility, preferred order, or requirements.
+
+		Mention "Replaces the XYZ ship." if relevant.
+			Kestrel-A, Engi-A,    Fed-A,     Zoltan-A,
+			Stealth-A, Rock-A,    Slug-A,    Mantis-A,
+			Lanius-A,  Crystal-A
+
+		Above all, keep the description general, so you won't have to edit
+		that again for each new version.
+	-->
+</metadata>
